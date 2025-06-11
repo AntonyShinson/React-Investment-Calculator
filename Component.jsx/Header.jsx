@@ -1,4 +1,4 @@
-import imag from "../src/assets/investment-calculator-logo.png";
+import imag from '../src/assets/investment-calculator-logo.png';
 
 export default function Header()
 {
