@@ -1,3 +1,3 @@
-Website url  :  https://antonyshinson.github.io/React-Investment-Calculator/
+Website url  :  https://AntonyShinson.github.io/React-Investment-Calculator/
  
   # React-Investment-calculator
